@@ -26,12 +26,10 @@ GLAD-M35 model at a resolution for visualization purposes
 
 ```std(vs).npy``` Standard deviation of S-wave velcoity (km/s)
 
-### Uncertainty values
-
 ---
 ## netCDF file download link
-Same format as the numpy arrays, but bundled in netCDF-v3 classic format. Can be used by Specfem3D-Globe for low-resolution simulation
-https://1drv.ms/u/c/6aa54e88b62ecf65/ER2lG67lZF9PsvEQM_Wy8aMByeldmERhWzcBg7uiYiY61Q?e=LSYgIE
+Same format as the numpy arrays, but bundled in netCDF-v3 classic format. Can be used in Specfem3D-Globe for low-resolution simulation
+https://1drv.ms/u/c/6aa54e88b62ecf65/Efd0852AMT1AvXG3NvyHA2oB7IchcilAj3wLu9yqNg_3Lg?e=AFQvpb
 
 ---
 IRIS EMC repository (available soon)
