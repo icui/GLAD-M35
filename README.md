@@ -27,7 +27,7 @@ Compressed with gzip. 3D array with dimension: (depth x latitude x longtidue)
 ```std_vs``` Standard deviation of S-wave velcoity (km/s)
 
 ---
-## netCDF file download link
+## netCDF file download
 Bundled in netCDF-v3 classic format. Can be used in Specfem3D-Globe for low-resolution simulation
 https://1drv.ms/u/c/6aa54e88b62ecf65/Efd0852AMT1AvXG3NvyHA2oB7IchcilAj3wLu9yqNg_3Lg?e=AFQvpb
 
