@@ -10,7 +10,7 @@ GLAD-M35 model at a resolution for visualization purposes
 ```depth.npy``` array of depth values (deg)
 
 ### Model data
-3D array with dimension: (depth x latitude x longtidue)
+Compressed with gzip. 3D array with dimension: (depth x latitude x longtidue)
 
 ```vpv.npy``` Vertially polarized P-wave velcoity (km/s)
 
@@ -22,9 +22,9 @@ GLAD-M35 model at a resolution for visualization purposes
 
 ```eta.npy``` Dimensionless parameter
 
-```std(vp).npy```  Standard deviation of P-wave velcoity (km/s)
+```std_vp.npy```  Standard deviation of P-wave velcoity (km/s)
 
-```std(vs).npy``` Standard deviation of S-wave velcoity (km/s)
+```std_vs.npy``` Standard deviation of S-wave velcoity (km/s)
 
 ---
 ## netCDF file download link
